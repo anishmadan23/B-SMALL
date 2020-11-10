@@ -1,6 +1,7 @@
 # B-SMALL: A BAYESIAN NEURAL NETWORK APPROACH TO SPARSE MAML
 This repository contains code for B-SMALL [arxiv link coming soon...]
-It includes PyTorch code to train and evaluate both MAML[1] and B-SMALL for few-shot classification tasks on CIFAR-FS and MiniImageNet. The models were trained on a single 2080Ti but use less memory than its full capacity.
+It includes **PyTorch** code to train and evaluate both **MAML[1]** and **B-SMALL** for few-shot classification tasks on **CIFAR-FS** and 
+**MiniImageNet**. The models were trained on a single 2080Ti but use less memory than its full capacity.
 
 ### Dependencies
 This code requires the following key dependencies:
@@ -9,7 +10,7 @@ This code requires the following key dependencies:
 - Tensorboard
 
 ### Setup
-Download MiniImagenet dataset and put the images in data/mini-imagenet/images/. The splits according to [1] are already provided in the repo. For CIFAR-FS, see data/get_cifarfs.py script to setup.
+Download MiniImagenet dataset and put the images in ```data/mini-imagenet/images/```. The splits according to [1] are already provided in the repo. For CIFAR-FS, see ```data/get_cifarfs.py``` script to setup.
 
 ### Usage
 #### Training 5-way 5-shot MAML from a checkpoint
