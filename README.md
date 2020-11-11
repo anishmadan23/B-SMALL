@@ -40,5 +40,5 @@ Special thanks to Jackie Loong's implementation, of which some parts are directl
 
 ### References
 
-[1] Finn, Chelsea, Pieter Abbeel, and Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." *arXiv preprint arXiv:1703.03400* (2017).
+[1] Finn, Chelsea, Pieter Abbeel, and Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." *arXiv preprint arXiv:1703.03400* (2017).  
 [2] Zintgraf, Luisa, et al. "Fast context adaptation via meta-learning." International Conference on Machine Learning. PMLR, 2019.
