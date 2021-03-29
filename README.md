@@ -1,5 +1,5 @@
 # B-SMALL: A BAYESIAN NEURAL NETWORK APPROACH TO SPARSE MAML
-This repository contains code for B-SMALL [Link to Paper](https://arxiv.org/abs/2101.00203)  
+This repository contains code for B-SMALL [Link to Paper](https://arxiv.org/abs/2101.00203) **(Accepted at ICASSP '21)**  
 It includes **PyTorch** code to train and evaluate both **MAML[1]** and **B-SMALL** for few-shot classification tasks on **CIFAR-FS** and 
 **MiniImageNet**. The models were trained on a single 2080Ti but use less memory than its full capacity.
 
